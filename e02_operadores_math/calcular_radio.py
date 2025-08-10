@@ -6,4 +6,4 @@ radio = float(input("Ingrese el area del circulo: \n"))
 pi = 3.14
 area = round(pi * pow(radio, 2),2)
 
-print(f"El area del circulo de {radio}, es {area}")
+print(f"El area del circulo de radio: {radio}, es {area}")
